@@ -14,8 +14,7 @@ add user JSON example
 	  "name" : "joshua",
     "password" : "1234",
     "email" : "campos25g@gmail.com",
-    "state" : "1",
-    "id" : "0"
+    "state" : "1"
 }
 
 
